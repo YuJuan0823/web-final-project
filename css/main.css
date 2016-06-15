@@ -3,7 +3,7 @@ body{
 	width:1280px;
 	display: flex;
 	flex-wrap:wrap;
-	/*background-color: grey;*/
+	background-color: #F5DEB3;
 }
 header{
 	display: flex;
