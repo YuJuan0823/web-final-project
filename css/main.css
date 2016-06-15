@@ -65,13 +65,11 @@ div>a{
 #weekofweather{
 	flex: 60%;
 }
-aside div{
-	width:100px;
-	height:100px;
-}
+
 aside img{
 	width:100px;
 	height:100px;
+	margin:0px;
 }
 footer{
 	position: relative;
