@@ -1,0 +1,12 @@
+#transition_content{
+	display:flex;
+}
+#main-part > div > img{
+	margin-bottom: 5%;
+}
+#text{
+	width:1030px;
+}
+pre{
+	font-size:1.2rem;
+}
